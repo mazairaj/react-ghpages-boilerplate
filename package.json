@@ -13,7 +13,7 @@
     "url": "https://github.com/rafrex/react-github-pages/issues"
   },
   "scripts" :{
-    "webpack": "webpack -d"
+    "webpack": "webpack -p"
   },
   "homepage": "https://github.com/rafrex/react-github-pages#readme",
   "dependencies": {
