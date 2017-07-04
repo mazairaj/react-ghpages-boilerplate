@@ -12,6 +12,9 @@
   "bugs": {
     "url": "https://github.com/rafrex/react-github-pages/issues"
   },
+  "scripts" :{
+    "webpack": "webpack -d"
+  },
   "homepage": "https://github.com/rafrex/react-github-pages#readme",
   "dependencies": {
     "babel-core": "^6.8.0",
